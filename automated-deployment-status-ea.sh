@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# Automated Enrollment Workflow Status
+# Automated Deployment Status
 
-# This attribute reads a breadcrumb to determine if the computer has completed the Automated Enrollment Workflow or not.
+# This attribute reads a breadcrumb to determine if the computer has completed the Alectrona Automated Deployment workflow or not.
 
 # Created by Alectrona for use with https://github.com/alectrona/automated-deployment
 
